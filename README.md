@@ -1,6 +1,8 @@
 # SupervisedMLTitanic
 The goal is to create a Python script that determines whether a person on the Titanic survived.
 
+I got the dataset from https://www.kaggle.com/datasets/yasserh/titanic-dataset?resource=download
+
 On the terminal, run python titanic.py, and you will see the result in the terminal. If you want to stock the result in the file output, 
 just run python titanic.py > output
 
